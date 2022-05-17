@@ -8,3 +8,14 @@ h1 {
     font-size: 1rem;
     margin-top: 40px;
 }
+
+input {
+    display: block;
+    margin: 10px;
+}
+
+button {
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
